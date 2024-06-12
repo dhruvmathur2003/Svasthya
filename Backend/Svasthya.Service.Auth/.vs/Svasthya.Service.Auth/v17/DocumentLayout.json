@@ -1,78 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\",
+  "WorkspaceRootPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\repository\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:repository\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\models\\rolesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\rolesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\repository\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:repository\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\models\\rolesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\rolesmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\models\\appusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\models\\appusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:models\\appusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064937_UpdatedOnceAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240607064937_UpdatedOnceAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064758_UpdatedAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240607064758_UpdatedAgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\migrations\\20240607064253_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\migrations\\20240607064253_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:migrations\\20240607064253_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240607064109_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240607063216_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthyaapp\\backend\\auth\\svasthya.service.auth\\svasthya.service.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\svasthya.service.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:svasthya.service.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\migrations\\20240607064937_updatedonceagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:migrations\\20240607064937_updatedonceagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.auth\\migrations\\20240607064758_updatedagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E93C50-85E0-453D-93B5-A2D484D816FD}|Svasthya.Service.Auth.csproj|solutionrelative:migrations\\20240607064758_updatedagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,12 +88,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "Controllers\\AuthController.cs*",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAuwDQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T06:39:57.408Z",
@@ -103,224 +101,208 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Repository\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Repository\\AuthRepository.cs*",
-              "RelativeToolTip": "Repository\\AuthRepository.cs*",
-              "ViewState": "AQIAACgAAAAAAAAAAAAmwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:36:34.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\Roles.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\Roles.cs",
               "RelativeDocumentMoniker": "Models\\Roles.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\Roles.cs",
               "RelativeToolTip": "Models\\Roles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:45:11.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterModel.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\RegisterModel.cs",
-              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\RegisterModel.cs",
-              "RelativeToolTip": "Models\\RegisterModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T05:20:37.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Repository\\IRepository\\IAuthRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IRepository\\IAuthRepository.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Repository\\IRepository\\IAuthRepository.cs*",
-              "RelativeToolTip": "Repository\\IRepository\\IAuthRepository.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:35:37.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T07:05:24.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T06:45:11.998Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:20:37.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Repository\\IRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Repository\\IRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:35:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:05:24.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RolesMapping.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\RolesMapping.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\RolesMapping.cs",
               "RelativeDocumentMoniker": "Models\\RolesMapping.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\RolesMapping.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\RolesMapping.cs",
               "RelativeToolTip": "Models\\RolesMapping.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:45:27.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T06:45:27.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AppUsers.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\AppUsers.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\AppUsers.cs",
               "RelativeDocumentMoniker": "Models\\AppUsers.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\AppUsers.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\AppUsers.cs",
               "RelativeToolTip": "Models\\AppUsers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:45:01.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T06:45:01.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAC/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-05T07:01:03.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Repository\\AuthRepository.cs",
+              "RelativeToolTip": "Repository\\AuthRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:36:34.539Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Models\\LoginModel.cs",
               "RelativeToolTip": "Models\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:54:25.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240607064937_UpdatedOnceAgain.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064937_UpdatedOnceAgain.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240607064937_UpdatedOnceAgain.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064937_UpdatedOnceAgain.cs",
-              "RelativeToolTip": "Migrations\\20240607064937_UpdatedOnceAgain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:49:37.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240607064758_UpdatedAgain.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064758_UpdatedAgain.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240607064758_UpdatedAgain.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064758_UpdatedAgain.cs",
-              "RelativeToolTip": "Migrations\\20240607064758_UpdatedAgain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:47:58.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240607064253_Updated.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064253_Updated.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240607064253_Updated.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064253_Updated.cs",
-              "RelativeToolTip": "Migrations\\20240607064253_Updated.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAADgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:42:53.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20240607064109_Updated.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240607064109_Updated.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
-              "RelativeToolTip": "Migrations\\20240607064109_Updated.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:41:09.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240607063216_update.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240607063216_update.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
-              "RelativeToolTip": "Migrations\\20240607063216_update.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:32:16.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T09:54:25.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Title": "20240607064937_UpdatedOnceAgain.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064937_UpdatedOnceAgain.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240607064937_UpdatedOnceAgain.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064937_UpdatedOnceAgain.cs",
+              "RelativeToolTip": "Migrations\\20240607064937_UpdatedOnceAgain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:26:25.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Dtos.cs",
-              "RelativeDocumentMoniker": "Dtos.cs",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Dtos.cs",
-              "RelativeToolTip": "Dtos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:42:58.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T06:49:37.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "20240607064758_UpdatedAgain.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064758_UpdatedAgain.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240607064758_UpdatedAgain.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064758_UpdatedAgain.cs",
+              "RelativeToolTip": "Migrations\\20240607064758_UpdatedAgain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:47:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240607064253_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064253_Updated.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240607064253_Updated.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Migrations\\20240607064253_Updated.cs",
+              "RelativeToolTip": "Migrations\\20240607064253_Updated.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:42:53.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240607064109_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
+              "RelativeToolTip": "..\\..\\..\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607064109_Updated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:41:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240607063216_update.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
+              "RelativeToolTip": "..\\..\\..\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Migrations\\20240607063216_update.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:32:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:26:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Dtos.cs",
+              "RelativeDocumentMoniker": "Dtos.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Dtos.cs",
+              "RelativeToolTip": "Dtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:42:58.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Svasthya.Service.Auth.csproj",
-              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
               "RelativeDocumentMoniker": "Svasthya.Service.Auth.csproj",
-              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
               "RelativeToolTip": "Svasthya.Service.Auth.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T06:54:52.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T06:54:52.831Z"
             }
           ]
         }

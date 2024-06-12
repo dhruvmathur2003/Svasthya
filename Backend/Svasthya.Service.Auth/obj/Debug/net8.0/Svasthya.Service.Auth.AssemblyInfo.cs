@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Svasthya.Service.Auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9404ac442d409a9b7842ed2e4205255781149ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7376882412ae99c3e463fe621579afaf191a9846")]
 [assembly: System.Reflection.AssemblyProductAttribute("Svasthya.Service.Auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Svasthya.Service.Auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

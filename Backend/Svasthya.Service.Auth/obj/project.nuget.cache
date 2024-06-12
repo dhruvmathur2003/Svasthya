@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P878Laq5tke9TSnsDTa9+5xnCRTGSEmyeovTr+ZIVN3bC8H3xkEZv/CAFnxRiVT5sQtHCtjJYMb7TMa3AnP+DQ==",
+  "dgSpecHash": "FRRpWkX9oTc55FlruJW3Kj3aOx09SqpJUgfr2uO0QITTj0kYFiwrC92A8x9ZsV98hY4YdWyiM7TdFJJIcumTTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+  "projectFilePath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhruv\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\dhruv\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

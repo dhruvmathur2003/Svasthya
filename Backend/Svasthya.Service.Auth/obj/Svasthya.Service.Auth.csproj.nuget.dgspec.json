@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj": {}
+    "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj": {
+    "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+        "projectUniqueName": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
         "projectName": "Svasthya.Service.Auth",
-        "projectPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+        "projectPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
         "packagesPath": "C:\\Users\\dhruv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\SvasthyaApp\\Backend\\Auth\\Svasthya.Service.Auth\\obj\\",
+        "outputPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dhruv\\AppData\\Roaming\\NuGet\\NuGet.Config",
