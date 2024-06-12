@@ -1,0 +1,6 @@
+@Svasthya.Service.User_HostAddress = http://localhost:5178
+
+GET {{Svasthya.Service.User_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
