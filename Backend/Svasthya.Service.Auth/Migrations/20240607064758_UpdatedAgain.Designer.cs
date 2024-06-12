@@ -11,8 +11,8 @@ using Svasthya.Service.Auth.Data;
 namespace Svasthya.Service.Auth.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240605094002_AddTableRoleUserMapp")]
-    partial class AddTableRoleUserMapp
+    [Migration("20240607064758_UpdatedAgain")]
+    partial class UpdatedAgain
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,79 +32,79 @@ namespace Svasthya.Service.Auth.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Email")
+                    b.Property<string>("email")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("name")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Password")
+                    b.Property<string>("password")
                         .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");
 
-                    b.ToTable("AppUsers");
+                    b.ToTable("appusers");
                 });
 
             modelBuilder.Entity("Svasthya.Service.Auth.Models.Roles", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("id"));
 
-                    b.Property<string>("Role")
+                    b.Property<string>("role")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.HasKey("Id");
+                    b.HasKey("id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("roles");
 
                     b.HasData(
                         new
                         {
-                            Id = 1,
-                            Role = "Admin"
+                            id = 1,
+                            role = "Admin"
                         },
                         new
                         {
-                            Id = 2,
-                            Role = "Hospital"
+                            id = 2,
+                            role = "Hospital"
                         },
                         new
                         {
-                            Id = 3,
-                            Role = "Doctor"
+                            id = 3,
+                            role = "Doctor"
                         },
                         new
                         {
-                            Id = 4,
-                            Role = "Patient"
+                            id = 4,
+                            role = "Patient"
                         });
                 });
 
             modelBuilder.Entity("Svasthya.Service.Auth.Models.RolesMapping", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("id"));
 
-                    b.Property<int>("AppUserId")
+                    b.Property<int>("appuserid")
                         .HasColumnType("integer");
 
-                    b.Property<int>("RoleId")
+                    b.Property<int>("roleid")
                         .HasColumnType("integer");
 
-                    b.HasKey("Id");
+                    b.HasKey("id");
 
-                    b.ToTable("RolesMappings");
+                    b.ToTable("rolesmappings");
                 });
 #pragma warning restore 612, 618
         }

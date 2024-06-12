@@ -5,10 +5,10 @@ namespace Svasthya.Service.Auth.Models
     public class RolesMapping
     {
         [Key]
-        public int Id { get; set; }
+        public int id { get; set; }
         [Required]
-        public int RoleId { get; set; }
+        public int roleid { get; set; }
         [Required]
-        public int AppUserId { get; set; }
+        public int appuserid { get; set; }
     }
 }

@@ -5,9 +5,9 @@ namespace Svasthya.Service.Auth.Models
     public class Roles
     {
         [Key]
-        public int Id { get; set; }
+        public int id { get; set; }
         [Required]
-        public string Role { get; set; }
+        public string role { get; set; }
 
     }
 }

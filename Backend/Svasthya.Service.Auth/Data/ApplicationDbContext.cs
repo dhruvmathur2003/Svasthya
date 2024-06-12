@@ -11,17 +11,17 @@ namespace Svasthya.Service.Auth.Data
             
         }
 
-        DbSet<AppUsers> AppUsers { get; set; }
-        DbSet<Roles> Roles { get; set; }
-        DbSet<RolesMapping> RolesMappings { get; set; }
+        DbSet<AppUsers> appusers { get; set; }
+        DbSet<Roles> roles { get; set; }
+        DbSet<RolesMapping> rolesmappings { get; set; }
         protected override void OnModelCreating(ModelBuilder modelbuilder)
         {
             base.OnModelCreating(modelbuilder);
             modelbuilder.Entity<Roles>().HasData(
-                new Roles { Id = 1, Role="Admin" },
-                new Roles { Id = 2, Role = "Hospital" },
-                new Roles { Id = 3, Role = "Doctor" },
-                new Roles { Id = 4, Role = "Patient" }
+                new Roles { id = 1, role="Admin" },
+                new Roles { id = 2, role = "Hospital" },
+                new Roles { id = 3, role = "Doctor" },
+                new Roles { id = 4, role = "Patient" }
                 );
 
         }
