@@ -66,14 +66,17 @@ namespace Svasthya.Service.Auth.Controllers
         public async Task<IActionResult> Login(LoginModel loginModel)
         {
             var userExist = await _authRepository.CheckLoginAsync(loginModel.Email, HashPassword(loginModel.Password));
+
             if (userExist)
             {
                 var user = await _authRepository.GetByEmailAsync(loginModel.Email);
+                var RoleId = await _authRepository.GetRoleByIdAsync(user.id);
                 var authClaims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Email, user.email),
                     new Claim(ClaimTypes.Name, user.name),
                     new Claim(ClaimTypes.NameIdentifier, user.id.ToString()),
+                    new Claim(ClaimTypes.Role, RoleId.ToString())
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
 

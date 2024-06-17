@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\Svasthya.Service.Auth.props" />
+  <Import Project="../build/Svasthya.Service.Auth.props" />
 </Project>

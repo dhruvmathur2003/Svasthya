@@ -14,6 +14,8 @@ namespace Svasthya.Service.Auth.Repository.IRepository
         Task RemoveAsync(int id);
         Task<RolesMapping> AddRolesAsync(RolesMapping entity);
         Task<int> GetIdByRoleAsync(string role);
+        Task<int> GetRoleByIdAsync(int id);
+
         Task<int> GetIdByEmailAsync(string email);
         Task<AppUsers> UpdateAsync(AppUsers entity);
     }

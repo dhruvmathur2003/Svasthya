@@ -73,6 +73,12 @@ namespace Svasthya.Service.Auth.Repository
             return await db.QuerySingleOrDefaultAsync<int>(sql, new { role });
         }
 
+        public async Task<int> GetRoleByIdAsync(int id)
+        {
+            var sql = "SELECT roleid FROM rolesmappings WHERE appuserid = @id";
+            return await db.QuerySingleOrDefaultAsync<int>(sql, new { id });
+        }
+
         public async Task<int> GetIdByEmailAsync(string email)
         {
             var sql = "SELECT id FROM appusers WHERE email = @Email";
