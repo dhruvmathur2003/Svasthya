@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Svasthya.Service.Auth.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
@@ -76,7 +76,7 @@ namespace Svasthya.Service.Auth.Controllers
                     new Claim(ClaimTypes.Email, user.email),
                     new Claim(ClaimTypes.Name, user.name),
                     new Claim(ClaimTypes.NameIdentifier, user.id.ToString()),
-                    new Claim(ClaimTypes.Role, RoleId.ToString())
+                    new Claim(ClaimTypes.Role, RoleId.ToString()),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
 

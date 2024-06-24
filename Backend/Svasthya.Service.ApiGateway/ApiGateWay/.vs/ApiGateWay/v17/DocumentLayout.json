@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.apigateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|solutionrelative:ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.apigateway\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|c:\\users\\dhruv\\documents\\.netdevelopment\\svasthya\\backend\\svasthya.service.apigateway\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4B18F203-0B24-40F5-94EE-09749C9092AB}|ApiGateWay.csproj|solutionrelative:apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T05:39:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:35:32.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\ocelot.json",
+              "RelativeDocumentMoniker": "ocelot.json",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\ocelot.json",
+              "RelativeToolTip": "ocelot.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T05:17:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiGateWay.http",
+              "DocumentMoniker": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\ApiGateWay.http",
+              "RelativeDocumentMoniker": "ApiGateWay.http",
+              "ToolTip": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.ApiGateway\\ApiGateWay\\ApiGateWay.http",
+              "RelativeToolTip": "ApiGateWay.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-24T05:15:21.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

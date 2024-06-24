@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RJNZH/Te0SkWAtxd+VrCjZPG9gn6EFt5WIEeiQjgLvA=",
+  "Source": "Svasthya.Service.Auth",
+  "BasePath": "_content/Svasthya.Service.Auth",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -2,7 +2,7 @@
   {
     "ContainingType": "Svasthya.Service.Auth.Controllers.AuthController",
     "Method": "Login",
-    "RelativePath": "api/Auth/Login",
+    "RelativePath": "Auth/Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "Svasthya.Service.Auth.Controllers.AuthController",
     "Method": "Register",
-    "RelativePath": "api/Auth/Register",
+    "RelativePath": "Auth/Register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
