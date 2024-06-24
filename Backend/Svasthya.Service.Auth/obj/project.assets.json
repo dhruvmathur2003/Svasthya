@@ -7731,27 +7731,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dhruv\\.nuget\\packages\\": {}
+    "/home/amit/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
+      "projectUniqueName": "/home/amit/Desktop/Svasthya/Backend/Svasthya.Service.Auth/Svasthya.Service.Auth.csproj",
       "projectName": "Svasthya.Service.Auth",
-      "projectPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\Svasthya.Service.Auth.csproj",
-      "packagesPath": "C:\\Users\\dhruv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhruv\\Documents\\.NetDevelopment\\Svasthya\\Backend\\Svasthya.Service.Auth\\obj\\",
+      "projectPath": "/home/amit/Desktop/Svasthya/Backend/Svasthya.Service.Auth/Svasthya.Service.Auth.csproj",
+      "packagesPath": "/home/amit/.nuget/packages/",
+      "outputPath": "/home/amit/Desktop/Svasthya/Backend/Svasthya.Service.Auth/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dhruv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/amit/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7764,11 +7761,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7837,7 +7829,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

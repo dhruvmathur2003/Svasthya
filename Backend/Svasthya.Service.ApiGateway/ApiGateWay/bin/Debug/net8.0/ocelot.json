@@ -2,7 +2,7 @@
   "Routes": [
     {
       "DownstreamPathTemplate": "/{everything}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
@@ -15,7 +15,7 @@
 
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:7025"
+    "BaseUrl": "http://localhost:7025"
   }
 }
 
